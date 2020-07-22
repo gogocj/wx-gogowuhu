@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/Team/editInfo/editInfo",
+    "pages/Team/editSuccess/editSuccess",
+    "pages/Team/zjToken/zjToken",
+    "pages/Team/xcToken/xcToken",
+    "pages/Team/index/index",
+    "pages/user/interest/interest",
+    "pages/user/index/index",
+    "pages/user/scoreRules/scoreRules",
+    "pages/user/userInfo/userInfo",
+    "pages/user/history/index/index",
+    "pages/user/history/edit/edit",
+    "pages/user/editUserInfo/editUserInfo",
+    "pages/user/feedback/edit/edit",
+    "pages/user/feedback/success/success",
+    "pages/manager/editAbility/editAbility",
+    "pages/manager/success/success",
+    "pages/manager/fail/fail",
+    "pages/authentication/edit/edit",
+    "pages/authentication/success/success"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "五虎上将",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
